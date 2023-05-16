@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "image-js": "^0.35.3",
+    "jsqr": "^1.4.0",
+    "ml-matrix": "^6.10.4"
+  },
+  "devDependencies": {
+    "html5-qrcode": "^2.3.8"
+  }
+}

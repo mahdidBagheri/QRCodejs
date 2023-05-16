@@ -1,0 +1,42 @@
+{
+  "name": "perspective-transform",
+  "version": "1.1.3",
+  "authors": [
+    "Jenny Louthan <jenny@uncorkedstudios.com> (https://github.com/jlouthan)"
+  ],
+  "description": "Access perspective transform functions and matrices given two sets of four points",
+  "main": "dist/perspective-transform.js",
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "perspective",
+    "projective",
+    "homographic",
+    "transform"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "Gruntfile.js",
+    "package.json",
+    "examples"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jlouthan/perspective-transform.git"
+  },
+  "homepage": "https://github.com/jlouthan/perspective-transform",
+  "_release": "1.1.3",
+  "_resolution": {
+    "type": "version",
+    "tag": "1.1.3",
+    "commit": "457d66ec90d915f341ab52c1c410b82cf894b38f"
+  },
+  "_source": "https://github.com/jlouthan/perspective-transform.git",
+  "_target": "^1.1.3",
+  "_originalSource": "perspective-transform",
+  "_direct": true
+}
