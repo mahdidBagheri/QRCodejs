@@ -4,5 +4,7 @@
 ![sample result](sample.png)  
 note: after aligning it uses prepared liberaries for decoding
 
-# How to install
-``` npm install image-js ```
+# dependencies
+[image-js](https://github.com/image-js/image-js)
+[perspective transform](https://github.com/jlouthan/perspective-transform)
+[jsQR](https://github.com/cozmo/jsQR)
