@@ -3,3 +3,6 @@
 
 ![sample result](sample.png)  
 note: after aligning it uses prepared liberaries for decoding
+
+# How to install
+``` npm install image-js ```
