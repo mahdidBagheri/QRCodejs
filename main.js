@@ -12,6 +12,7 @@ async function process()
 
     if (code) {
     console.log("Found QR code", code);
+    document.getElementById("data").textContent = `code context: ${code.data}`
     }
     document.getElementById('result').src = result.toDataURL();
 
